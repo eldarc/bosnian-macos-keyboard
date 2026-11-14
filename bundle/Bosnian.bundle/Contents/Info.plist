@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.keyboardlayout.Bosnian</string>
+	<key>CFBundleName</key>
+	<string>Bosnian</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>KLInfo_Bosnian - International English</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>com.apple.keyboardlayout.bosnian.keylayout.BosnianInternational</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Bosnian - U.S.</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>com.apple.keyboardlayout.bosnian.keylayout.BosnianUS</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Bosnian – QWERTY</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>com.apple.keyboardlayout.bosnian.keylayout.BosnianQWERTY</string>
+		<key>TISIntendedLanguage</key>
+		<string>bs</string>
+	</dict>
+	<key>KLInfo_Bosnian – QWERTZ</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>com.apple.keyboardlayout.bosnian.keylayout.BosnianQWERTZ</string>
+		<key>TISIntendedLanguage</key>
+		<string>bs</string>
+	</dict>
+</dict>
+</plist>

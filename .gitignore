@@ -1,0 +1,20 @@
+# Uncropped screenshots, kept locally only
+screenshots-src/
+
+# Release artefacts, built from bundle/
+dist/
+
+# macOS metadata
+.DS_Store
+._*
+.AppleDouble
+.AppleDesktop
+.AppleDB
+.LSOverride
+.Spotlight-V100
+.DocumentRevisions-V100
+.TemporaryItems
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
